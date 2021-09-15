@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/project/author/phanthebao/feed" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
-	<lastBuildDate>Tue, 14 Sep 2021 08:13:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 12:13:10 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Cách để bắt đầu học An ning mạng</title>
+		<title>Cách để bắt đầu học An ninh mạng</title>
 		<link>https://phanthebao1234.github.io/thebaowp/cach-de-bat-dau-hoc-an-ning-mang.html</link>
 					<comments>https://phanthebao1234.github.io/thebaowp/cach-de-bat-dau-hoc-an-ning-mang.html#respond</comments>
 		
@@ -99,23 +99,6 @@
 					<description><![CDATA[Liên Minh Huyền Thoại (tiếng Anh: League of Legends, viết tắt: LMHT hoặc LoL) là một trò chơi video thể loại đấu trường trận chiến trực tuyến nhiều người chơi (MOBA - Multiplayer Online Battlefield Arena) được Riot Games phát triển và phát hành trên nền tảng Windows và MacOS, lấy cảm hứng từ bản mod Defense of the Ancients cho trò chơi video Warcraft III: Frozen Throne.]]></description>
 		
 					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/league-of-legend.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sed risus tortor, dignissim id tortor sit amet</title>
-		<link>https://phanthebao1234.github.io/thebaowp/sed-risus-tortor-dignissim-id-tortor-sit-amet-scelerisque.html</link>
-					<comments>https://phanthebao1234.github.io/thebaowp/sed-risus-tortor-dignissim-id-tortor-sit-amet-scelerisque.html#respond</comments>
-		
-		<dc:creator><![CDATA[phanthebao]]></dc:creator>
-		<pubDate>Mon, 25 Jun 2018 14:45:17 +0000</pubDate>
-				<category><![CDATA[Digital]]></category>
-		<guid isPermaLink="false">http://demo.athemes.com/atu-agency/?p=108</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac urna in nunc blandit placerat. Aliquam hendrerit lacus euismod ipsum [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/sed-risus-tortor-dignissim-id-tortor-sit-amet-scelerisque.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
