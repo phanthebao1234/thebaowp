@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>lol &#8211; BaoBlog</title>
+	<title>lol &#8211; TheBao</title>
 	<atom:link href="http://localhost/project/tag/lol/feed" rel="self" type="application/rss+xml" />
-	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
 	<lastBuildDate>Mon, 06 Sep 2021 12:26:15 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>League of Legend</title>
-		<link>https://phanthebao1234.github.io/thebaodemo_4/league-of-legend.html</link>
-					<comments>https://phanthebao1234.github.io/thebaodemo_4/league-of-legend.html#respond</comments>
+		<link>https://phanthebao1234.github.io/thebaowp/league-of-legend.html</link>
+					<comments>https://phanthebao1234.github.io/thebaowp/league-of-legend.html#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Mon, 06 Sep 2021 08:49:16 +0000</pubDate>
@@ -30,11 +30,11 @@
 		<category><![CDATA[leagueoflegend]]></category>
 		<category><![CDATA[lienminhhuyenthoai]]></category>
 		<category><![CDATA[lol]]></category>
-		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaodemo_4/?p=24</guid>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaowp/?p=24</guid>
 
 					<description><![CDATA[Liên Minh Huyền Thoại (tiếng Anh: League of Legends, viết tắt: LMHT hoặc LoL) là một trò chơi video thể loại đấu trường trận chiến trực tuyến nhiều người chơi (MOBA - Multiplayer Online Battlefield Arena) được Riot Games phát triển và phát hành trên nền tảng Windows và MacOS, lấy cảm hứng từ bản mod Defense of the Ancients cho trò chơi video Warcraft III: Frozen Throne.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebaodemo_4/league-of-legend.html/feed</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/league-of-legend.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

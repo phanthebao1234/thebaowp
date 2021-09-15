@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>fornite &#8211; BaoBlog</title>
+	<title>fornite &#8211; TheBao</title>
 	<atom:link href="http://localhost/project/tag/fornite/feed" rel="self" type="application/rss+xml" />
-	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
 	<lastBuildDate>Tue, 07 Sep 2021 08:18:24 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Fortnite Battle Royale</title>
-		<link>https://phanthebao1234.github.io/thebaodemo_4/fortnite-battle-royale.html</link>
-					<comments>https://phanthebao1234.github.io/thebaodemo_4/fortnite-battle-royale.html#respond</comments>
+		<link>https://phanthebao1234.github.io/thebaowp/fortnite-battle-royale.html</link>
+					<comments>https://phanthebao1234.github.io/thebaowp/fortnite-battle-royale.html#respond</comments>
 		
 		<dc:creator><![CDATA[phanthebao]]></dc:creator>
 		<pubDate>Tue, 07 Sep 2021 08:17:40 +0000</pubDate>
@@ -31,11 +31,11 @@
 		<category><![CDATA[fn]]></category>
 		<category><![CDATA[fornite]]></category>
 		<category><![CDATA[sinhton]]></category>
-		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaodemo_4/?p=52</guid>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaowp/?p=52</guid>
 
 					<description><![CDATA[Fortnite Battle Royale (hay cuộc chiến hoàng tộc [ hay còn được gọi với cái tên là  : battle royale] ) là một trò chơi video trực tuyến battle royale miễn phí được phát triển và phát hành bởi Epic Games. Đây là một trò chơi đồng hành với Fortnite: Save the World, một trò chơi sinh tồn hợp tác với các yếu tố xây dựng. Nó ban đầu được phát hành trong lần truy cập sớm vào ngày 26 tháng 9 năm 2017, dành cho Microsoft Windows, macOS, PlayStation 4 và Xbox One, sau đó là các phiên bản cho iOS, Android và Nintendo Switch vào năm sau.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebaodemo_4/fortnite-battle-royale.html/feed</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/fortnite-battle-royale.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

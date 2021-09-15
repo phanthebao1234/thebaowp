@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho BaoBlog	</title>
+	Bình luận cho TheBao	</title>
 	<atom:link href="http://localhost/project/comments/feed" rel="self" type="application/rss+xml" />
-	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
-	<lastBuildDate>Tue, 14 Sep 2021 08:13:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 07:35:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

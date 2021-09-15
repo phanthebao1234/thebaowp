@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>congtacvien01 &#8211; BaoBlog</title>
+	<title>congtacvien01 &#8211; TheBao</title>
 	<atom:link href="http://localhost/project/author/congtacvien01/feed" rel="self" type="application/rss+xml" />
-	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
 	<lastBuildDate>Mon, 13 Sep 2021 00:25:57 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>8 lý do bạn nên chuyển từ YouTube sang DTube</title>
-		<link>https://phanthebao1234.github.io/thebaodemo_4/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html</link>
-					<comments>https://phanthebao1234.github.io/thebaodemo_4/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html#respond</comments>
+		<link>https://phanthebao1234.github.io/thebaowp/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html</link>
+					<comments>https://phanthebao1234.github.io/thebaowp/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html#respond</comments>
 		
 		<dc:creator><![CDATA[congtacvien01]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 00:25:57 +0000</pubDate>
@@ -30,11 +30,11 @@
 		<category><![CDATA[#blockchain]]></category>
 		<category><![CDATA[#dtube]]></category>
 		<category><![CDATA[#youtube]]></category>
-		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaodemo_4/?p=68</guid>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaowp/?p=68</guid>
 
 					<description><![CDATA[Vì tất cả dung lượng lưu trữ nội dung video đều nằm trên máy chủ của YouTube, nên người dùng cuối không có quyền kiểm soát những gì xảy ra với video của họ. YouTube quyết định những gì nên có trên nền tảng của họ, chứ không phải người dùng YouTube. Nếu bạn muốn kiếm tiền từ video của mình thông qua quảng cáo, YouTube là nhà môi giới quyết định việc kiếm tiền của bạn có hợp lý hay không.]]></description>
 		
-					<wfw:commentRss>https://phanthebao1234.github.io/thebaodemo_4/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html/feed</wfw:commentRss>
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/8-ly-do-ban-nen-chuyen-tu-youtube-sang-dtube.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
