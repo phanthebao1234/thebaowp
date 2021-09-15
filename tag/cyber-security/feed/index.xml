@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cyber Security &#8211; BaoBlog</title>
+	<atom:link href="http://localhost/project/tag/cyber-security/feed" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<description>Đây là trang WordPress của tôi</description>
+	<lastBuildDate>Tue, 14 Sep 2021 08:13:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cách để bắt đầu học An ning mạng</title>
+		<link>https://phanthebao1234.github.io/thebaodemo_4/cach-de-bat-dau-hoc-an-ning-mang.html</link>
+					<comments>https://phanthebao1234.github.io/thebaodemo_4/cach-de-bat-dau-hoc-an-ning-mang.html#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2021 08:10:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[anningmang]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[pentest]]></category>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaodemo_4/?p=82</guid>
+
+					<description><![CDATA[An ninh mạng (Cyber Security) được cho là một môn rất khó học, nhưng mình sẽ cho bạn thấy rằng bất kỳ ai từ bất kỳ lĩnh vực nào cũng có thể học được, kể cả bạn! Bài viết này sẽ giúp bạn bắt đầu tìm hiểu lĩnh vực bảo mật theo lộ trình tiêu chuẩn nhất.]]></description>
+		
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaodemo_4/cach-de-bat-dau-hoc-an-ning-mang.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

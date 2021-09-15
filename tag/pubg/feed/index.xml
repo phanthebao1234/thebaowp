@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pubg &#8211; BaoBlog</title>
+	<atom:link href="http://localhost/project/tag/pubg/feed" rel="self" type="application/rss+xml" />
+	<link>https://phanthebao1234.github.io/thebaodemo_4</link>
+	<description>Đây là trang WordPress của tôi</description>
+	<lastBuildDate>Mon, 06 Sep 2021 09:29:16 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>PlayerUnknown&#8217;s Battlegrounds</title>
+		<link>https://phanthebao1234.github.io/thebaodemo_4/playerunknowns-battlegrounds.html</link>
+					<comments>https://phanthebao1234.github.io/thebaodemo_4/playerunknowns-battlegrounds.html#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Mon, 06 Sep 2021 09:29:14 +0000</pubDate>
+				<category><![CDATA[Trò chơi trực tuyến]]></category>
+		<category><![CDATA[bansung]]></category>
+		<category><![CDATA[playunknownsbattlegrounds]]></category>
+		<category><![CDATA[pubg]]></category>
+		<category><![CDATA[sinhton]]></category>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaodemo_4/?p=34</guid>
+
+					<description><![CDATA[PlayerUnknown's Battlegrounds (tạm dịch: Chiến trường của Kẻ Vô Danh; viết tắt: PUBG) là một trò chơi điện tử hành động, sinh tồn, nhiều người chơi trực tuyến do Krafton Inc. (được thành lập dựa trên sự hợp nhất của công ty mẹ Bluehole Studio và công ty con PUBG Corporation[1]) - tập đoàn phát triển game có trụ sở chính được đặt tại thành phố Seongnam, Hàn Quốc thiết kế, phát triển và phát hành.]]></description>
+		
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaodemo_4/playerunknowns-battlegrounds.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
