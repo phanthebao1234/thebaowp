@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/project/author/phanthebao/feed" rel="self" type="application/rss+xml" />
 	<link>https://phanthebao1234.github.io/thebaowp</link>
 	<description>Đây là trang WordPress của tôi</description>
-	<lastBuildDate>Wed, 15 Sep 2021 12:13:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Sep 2021 15:59:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Shadow Web là gì?</title>
+		<link>https://phanthebao1234.github.io/thebaowp/shadow-web-la-gi.html</link>
+					<comments>https://phanthebao1234.github.io/thebaowp/shadow-web-la-gi.html#respond</comments>
+		
+		<dc:creator><![CDATA[phanthebao]]></dc:creator>
+		<pubDate>Sun, 19 Sep 2021 15:52:18 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[shadowweb]]></category>
+		<guid isPermaLink="false">https://phanthebao1234.github.io/thebaowp/?p=319</guid>
+
+					<description><![CDATA[Trong cuộc sống hàng ngày, hầu hết chúng ta sử dụng Internet theo những cách khá phổ biến: mạng xã hội, đọc báo, giao dịch ngân hàng, mua sắm,…Tuy nhiên, Internet không chỉ là thứ mà chúng ta có thể truy cập bằng Google, Bing, Chrome hoặc Edge. Mà còn có một trong những phần nằm trong bóng tối được gọi là shadow web.]]></description>
+		
+					<wfw:commentRss>https://phanthebao1234.github.io/thebaowp/shadow-web-la-gi.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Cách để bắt đầu học An ninh mạng</title>
 		<link>https://phanthebao1234.github.io/thebaowp/cach-de-bat-dau-hoc-an-ning-mang.html</link>
 					<comments>https://phanthebao1234.github.io/thebaowp/cach-de-bat-dau-hoc-an-ning-mang.html#respond</comments>
